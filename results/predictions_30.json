@@ -1,0 +1,2144 @@
+{
+  "metadata": {
+    "project": "EC_PlasticKG_FINAL",
+    "method": "existing rule-based extraction pipeline",
+    "dataset": "C:\\Users\\User\\OneDrive\\Desktop\\DUK Notes\\project\\mini project\\EC_PlasticKG_FINAL\\data\\openalex_abstracts.json",
+    "gold_workbook_used_only_for_sample_IDs_and_source_text": "C:\\Users\\User\\OneDrive\\Desktop\\DUK Notes\\project\\mini project\\EC_PlasticKG_FINAL\\data\\EC_PlasticKG_gold_annotations_AI_DRAFT_v4.xlsx",
+    "matching_note": "Predictions are separate from gold annotations.",
+    "abstract_count": 30
+  },
+  "abstracts": [
+    {
+      "id": "W2037496050",
+      "title": "Plastic waste inputs from land into the ocean",
+      "entities": [],
+      "claims": []
+    },
+    {
+      "id": "W2567132142",
+      "title": "Feedstock Recycling via Waste Plastic Pyrolysis",
+      "entities": [
+        {
+          "abstract_id": "W2567132142",
+          "text": "energy recovery",
+          "normalized": "energy recovery",
+          "type": "Outcome",
+          "start": 360,
+          "end": 375
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "incineration",
+          "normalized": "incineration",
+          "type": "Process",
+          "start": 377,
+          "end": 389
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 491,
+          "end": 500
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "Pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 580,
+          "end": 589
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "mechanical recycling",
+          "normalized": "mechanical recycling",
+          "type": "Process",
+          "start": 645,
+          "end": 665
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "PVC",
+          "normalized": "pvc",
+          "type": "Polymer",
+          "start": 716,
+          "end": 719
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "PET",
+          "normalized": "pet",
+          "type": "Polymer",
+          "start": 755,
+          "end": 758
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "corrosive gases",
+          "normalized": "corrosive gases",
+          "type": "Outcome",
+          "start": 768,
+          "end": 783
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "sublimating substances",
+          "normalized": "sublimating substances",
+          "type": "Outcome",
+          "start": 788,
+          "end": 810
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 818,
+          "end": 827
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 861,
+          "end": 870
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "PVC",
+          "normalized": "pvc",
+          "type": "Polymer",
+          "start": 958,
+          "end": 961
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 988,
+          "end": 997
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "PET",
+          "normalized": "pet",
+          "type": "Polymer",
+          "start": 1001,
+          "end": 1004
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "catalysts",
+          "normalized": "catalyst",
+          "type": "Catalyst",
+          "start": 1020,
+          "end": 1029
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 1076,
+          "end": 1085
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "polypropylene",
+          "normalized": "polypropylene (pp)",
+          "type": "Polymer",
+          "start": 1131,
+          "end": 1144
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "PP",
+          "normalized": "polypropylene (pp)",
+          "type": "Polymer",
+          "start": 1146,
+          "end": 1148
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "polystyrene",
+          "normalized": "polystyrene",
+          "type": "Polymer",
+          "start": 1155,
+          "end": 1166
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "PVC",
+          "normalized": "pvc",
+          "type": "Polymer",
+          "start": 1248,
+          "end": 1251
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 1270,
+          "end": 1279
+        },
+        {
+          "abstract_id": "W2567132142",
+          "text": "PET",
+          "normalized": "pet",
+          "type": "Polymer",
+          "start": 1283,
+          "end": 1286
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W2567132142_3",
+          "abstract_id": "W2567132142",
+          "text": "However, only 26 % and 4 % of the recycled waste plastic is treated by mechanical and feedstock recycling, respectively, whereas 70 % is treated by energy recovery (incineration).",
+          "start": 212,
+          "end": 391,
+          "entities": [
+            {
+              "name": "Energy Recovery",
+              "type": "Outcome",
+              "pos": 148
+            },
+            {
+              "name": "Incineration",
+              "type": "Process",
+              "pos": 165
+            }
+          ],
+          "subject": {
+            "name": "Incineration",
+            "type": "Process",
+            "pos": 165
+          },
+          "object": {
+            "name": "Energy Recovery",
+            "type": "Outcome",
+            "pos": 148
+          },
+          "predicate": "affects",
+          "polarity": "neutral",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "catalyst": "Catalyst",
+            "inherited_from_abstract": [
+              "catalyst"
+            ]
+          }
+        },
+        {
+          "id": "C_W2567132142_7",
+          "abstract_id": "W2567132142",
+          "text": "However, polyvinylchloride (PVC) and poly(ethylene terephthalate) (PET) produce corrosive gases and sublimating substances during pyrolysis, resulting in reduced quality of pyrolysis products, and damage to the treatment plant.",
+          "start": 688,
+          "end": 915,
+          "entities": [
+            {
+              "name": "PVC",
+              "type": "Polymer",
+              "pos": 28
+            },
+            {
+              "name": "PET",
+              "type": "Polymer",
+              "pos": 67
+            },
+            {
+              "name": "Corrosive Gases",
+              "type": "Outcome",
+              "pos": 80
+            },
+            {
+              "name": "Sublimating Substances",
+              "type": "Outcome",
+              "pos": 100
+            },
+            {
+              "name": "Pyrolysis",
+              "type": "Process",
+              "pos": 130
+            },
+            {
+              "name": "Pyrolysis",
+              "type": "Process",
+              "pos": 173
+            }
+          ],
+          "subject": {
+            "name": "PVC",
+            "type": "Polymer",
+            "pos": 28
+          },
+          "object": {
+            "name": "Pyrolysis",
+            "type": "Process",
+            "pos": 130
+          },
+          "predicate": "undergoes",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "PVC, PET",
+            "catalyst": "Catalyst",
+            "inherited_from_abstract": [
+              "catalyst"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "W2975171352",
+      "title": "Eliminating Plastic Pollution: How a Voluntary Contribution From Industry Will Drive the Circular Plastics Economy",
+      "entities": [
+        {
+          "abstract_id": "W2975171352",
+          "text": "oil",
+          "normalized": "pyrolysis oil",
+          "type": "Product",
+          "start": 586,
+          "end": 589
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W2975171352_4",
+          "abstract_id": "W2975171352",
+          "text": "Rates of FFP production and waste are growing rapidly, driven by increased demand and shifting strategies of oil and gas companies responding to slowing profit growth.",
+          "start": 477,
+          "end": 644,
+          "entities": [
+            {
+              "name": "Pyrolysis Oil",
+              "type": "Product",
+              "pos": 109
+            }
+          ],
+          "subject": {
+            "name": "Pyrolysis Oil",
+            "type": "Product",
+            "pos": 109
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        }
+      ]
+    },
+    {
+      "id": "W3007670510",
+      "title": "Biodegradable Polymers: Present Opportunities and Challenges in Providing a Microplastic‐Free Environment",
+      "entities": [
+        {
+          "abstract_id": "W3007670510",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 284,
+          "end": 297
+        },
+        {
+          "abstract_id": "W3007670510",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 1318,
+          "end": 1331
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W3007670510_2",
+          "abstract_id": "W3007670510",
+          "text": "Large amounts of plastic litter accumulate in the environment and disintegrate into microplastics (small pieces less than 5 mm in size), a topic of real concern especially for products and applications where the plastics are used for a short time before becoming waste, and where they are difficult to recover after use and remain in the environment.",
+          "start": 200,
+          "end": 550,
+          "entities": [
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 84
+            }
+          ],
+          "subject": {
+            "name": "Microplastics",
+            "type": "Polymer",
+            "pos": 84
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Microplastics"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W3020178450",
+      "title": "Advances and approaches for chemical recycling of plastic waste",
+      "entities": [
+        {
+          "abstract_id": "W3020178450",
+          "text": "mechanical recycling",
+          "normalized": "mechanical recycling",
+          "type": "Process",
+          "start": 487,
+          "end": 507
+        },
+        {
+          "abstract_id": "W3020178450",
+          "text": "chemical recycling",
+          "normalized": "chemical recycling",
+          "type": "Process",
+          "start": 699,
+          "end": 717
+        },
+        {
+          "abstract_id": "W3020178450",
+          "text": "chemical recycling",
+          "normalized": "chemical recycling",
+          "type": "Process",
+          "start": 746,
+          "end": 764
+        },
+        {
+          "abstract_id": "W3020178450",
+          "text": "chemical recycling",
+          "normalized": "chemical recycling",
+          "type": "Process",
+          "start": 950,
+          "end": 968
+        },
+        {
+          "abstract_id": "W3020178450",
+          "text": "PET",
+          "normalized": "pet",
+          "type": "Polymer",
+          "start": 1017,
+          "end": 1020
+        },
+        {
+          "abstract_id": "W3020178450",
+          "text": "PP",
+          "normalized": "polypropylene (pp)",
+          "type": "Polymer",
+          "start": 1030,
+          "end": 1032
+        },
+        {
+          "abstract_id": "W3020178450",
+          "text": "polyolefins",
+          "normalized": "polyolefin",
+          "type": "Polymer",
+          "start": 1122,
+          "end": 1133
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W3020178450_5",
+          "abstract_id": "W3020178450",
+          "text": "The major current recycling processes focus on the mechanical recycling of plastic waste; however, even this process is limited by the sorting/pretreatment of plastic waste and degradation of plastics during the process.",
+          "start": 436,
+          "end": 656,
+          "entities": [
+            {
+              "name": "Mechanical Recycling",
+              "type": "Process",
+              "pos": 51
+            }
+          ],
+          "subject": {
+            "name": "Mechanical Recycling",
+            "type": "Process",
+            "pos": 51
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "negative",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        },
+        {
+          "id": "C_W3020178450_7",
+          "abstract_id": "W3020178450",
+          "text": "Efficient chemical recycling would allow for the production of feedstocks for various uses including fuels and chemical feedstocks to replace petrochemicals.",
+          "start": 736,
+          "end": 893,
+          "entities": [
+            {
+              "name": "Chemical Recycling",
+              "type": "Process",
+              "pos": 10
+            }
+          ],
+          "subject": {
+            "name": "Chemical Recycling",
+            "type": "Process",
+            "pos": 10
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        },
+        {
+          "id": "C_W3020178450_8",
+          "abstract_id": "W3020178450",
+          "text": "This review focuses on the most recent advances for the chemical recycling of three major polymers found in plastic waste: PET, PE, and PP.",
+          "start": 894,
+          "end": 1033,
+          "entities": [
+            {
+              "name": "Chemical Recycling",
+              "type": "Process",
+              "pos": 56
+            },
+            {
+              "name": "PET",
+              "type": "Polymer",
+              "pos": 123
+            },
+            {
+              "name": "Polypropylene (PP)",
+              "type": "Polymer",
+              "pos": 136
+            }
+          ],
+          "subject": {
+            "name": "Chemical Recycling",
+            "type": "Process",
+            "pos": 56
+          },
+          "object": {
+            "name": "PET",
+            "type": "Polymer",
+            "pos": 123
+          },
+          "predicate": "affects",
+          "polarity": "neutral",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "PET, Polypropylene (PP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W3044029393",
+      "title": "Evaluating scenarios toward zero plastic pollution",
+      "entities": [
+        {
+          "abstract_id": "W3044029393",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 203,
+          "end": 216
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W3044029393_2",
+          "abstract_id": "W3044029393",
+          "text": "To estimate the effectiveness of interventions to reduce plastic pollution, we modeled stocks and flows of municipal solid waste and four sources of microplastics through the global plastic system for five scenarios between 2016 and 2040.",
+          "start": 54,
+          "end": 292,
+          "entities": [
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 149
+            }
+          ],
+          "subject": {
+            "name": "Microplastics",
+            "type": "Polymer",
+            "pos": 149
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "negative",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Microplastics"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W3083896108",
+      "title": "Accumulation of plastic waste during COVID-19",
+      "entities": [],
+      "claims": []
+    },
+    {
+      "id": "W3095737855",
+      "title": "The United States’ contribution of plastic waste to land and ocean",
+      "entities": [],
+      "claims": []
+    },
+    {
+      "id": "W3126943295",
+      "title": "Environmental and public health impacts of plastic wastes due to healthcare and food products packages: A Review",
+      "entities": [
+        {
+          "abstract_id": "W3126943295",
+          "text": "polyolefin",
+          "normalized": "polyolefin",
+          "type": "Polymer",
+          "start": 328,
+          "end": 338
+        },
+        {
+          "abstract_id": "W3126943295",
+          "text": "polyvinyl chloride",
+          "normalized": "pvc",
+          "type": "Polymer",
+          "start": 340,
+          "end": 358
+        },
+        {
+          "abstract_id": "W3126943295",
+          "text": "plastic waste management",
+          "normalized": "plastic waste management",
+          "type": "Concept",
+          "start": 1410,
+          "end": 1434
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W3126943295_2",
+          "abstract_id": "W3126943295",
+          "text": "These packaging materials, produced from plastic bases like the bio-degradable, epoxy resins, polystyrenes, expanded polystyrenes, polyolefin, polyvinyl chloride and polycarbonates also contain several unsafe substances incorporated into them to aid their production and product aesthetics.",
+          "start": 197,
+          "end": 487,
+          "entities": [
+            {
+              "name": "Polyolefin",
+              "type": "Polymer",
+              "pos": 131
+            },
+            {
+              "name": "PVC",
+              "type": "Polymer",
+              "pos": 143
+            }
+          ],
+          "subject": {
+            "name": "Polyolefin",
+            "type": "Polymer",
+            "pos": 131
+          },
+          "object": {
+            "name": "PVC",
+            "type": "Polymer",
+            "pos": 143
+          },
+          "predicate": "produces",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Polyolefin, PVC"
+          }
+        },
+        {
+          "id": "C_W3126943295_6",
+          "abstract_id": "W3126943295",
+          "text": "The emerging economies that is mostly affected by these challenges should adopt plastic waste management approaches, especially recycling, reuse and establishment of enabling policies on the manufacture, use and disposal of plastic-based packaging products.",
+          "start": 1330,
+          "end": 1587,
+          "entities": [
+            {
+              "name": "Plastic Waste Management",
+              "type": "Concept",
+              "pos": 80
+            }
+          ],
+          "subject": {
+            "name": "Plastic Waste Management",
+            "type": "Concept",
+            "pos": 80
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        }
+      ]
+    },
+    {
+      "id": "W3135027315",
+      "title": "The plastic waste problem in Malaysia: management, recycling and disposal of local and global plastic waste",
+      "entities": [
+        {
+          "abstract_id": "W3135027315",
+          "text": "incineration",
+          "normalized": "incineration",
+          "type": "Process",
+          "start": 716,
+          "end": 728
+        },
+        {
+          "abstract_id": "W3135027315",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 845,
+          "end": 858
+        },
+        {
+          "abstract_id": "W3135027315",
+          "text": "incineration",
+          "normalized": "incineration",
+          "type": "Process",
+          "start": 870,
+          "end": 882
+        },
+        {
+          "abstract_id": "W3135027315",
+          "text": "plastic waste management",
+          "normalized": "plastic waste management",
+          "type": "Concept",
+          "start": 898,
+          "end": 922
+        },
+        {
+          "abstract_id": "W3135027315",
+          "text": "circular economy",
+          "normalized": "circular economy",
+          "type": "Concept",
+          "start": 1417,
+          "end": 1433
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W3135027315_5",
+          "abstract_id": "W3135027315",
+          "text": "This review outlines the current state of plastic waste production and management in Malaysia, including options for landfill, recycling and incineration.",
+          "start": 575,
+          "end": 729,
+          "entities": [
+            {
+              "name": "Incineration",
+              "type": "Process",
+              "pos": 141
+            }
+          ],
+          "subject": {
+            "name": "Incineration",
+            "type": "Process",
+            "pos": 141
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        }
+      ]
+    },
+    {
+      "id": "W3172843969",
+      "title": "Plastic Waste Pyrolytic Converter",
+      "entities": [
+        {
+          "abstract_id": "W3172843969",
+          "text": "pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 495,
+          "end": 504
+        },
+        {
+          "abstract_id": "W3172843969",
+          "text": "diesel",
+          "normalized": "diesel",
+          "type": "Product",
+          "start": 524,
+          "end": 530
+        },
+        {
+          "abstract_id": "W3172843969",
+          "text": "pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 663,
+          "end": 672
+        },
+        {
+          "abstract_id": "W3172843969",
+          "text": "polypropylene",
+          "normalized": "polypropylene (pp)",
+          "type": "Polymer",
+          "start": 1174,
+          "end": 1187
+        },
+        {
+          "abstract_id": "W3172843969",
+          "text": "PP",
+          "normalized": "polypropylene (pp)",
+          "type": "Polymer",
+          "start": 1189,
+          "end": 1191
+        },
+        {
+          "abstract_id": "W3172843969",
+          "text": "PVC",
+          "normalized": "pvc",
+          "type": "Polymer",
+          "start": 1254,
+          "end": 1257
+        },
+        {
+          "abstract_id": "W3172843969",
+          "text": "polyvinyl chloride",
+          "normalized": "pvc",
+          "type": "Polymer",
+          "start": 1259,
+          "end": 1277
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W3172843969_3",
+          "abstract_id": "W3172843969",
+          "text": "The main objective of this study were to understand and optimize the process of plastic pyrolysis for maximizing the diesel range products.",
+          "start": 407,
+          "end": 546,
+          "entities": [
+            {
+              "name": "Pyrolysis",
+              "type": "Process",
+              "pos": 88
+            },
+            {
+              "name": "Diesel",
+              "type": "Product",
+              "pos": 117
+            }
+          ],
+          "subject": {
+            "name": "Pyrolysis",
+            "type": "Process",
+            "pos": 88
+          },
+          "object": {
+            "name": "Diesel",
+            "type": "Product",
+            "pos": 117
+          },
+          "predicate": "produces",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        },
+        {
+          "id": "C_W3172843969_4",
+          "abstract_id": "W3172843969",
+          "text": "The technology is not overly complicated, plastics are shredded and then heated in an oxygen free chamber (known as pyrolysis) to about 400 degree Celsius.",
+          "start": 547,
+          "end": 702,
+          "entities": [
+            {
+              "name": "Pyrolysis",
+              "type": "Process",
+              "pos": 116
+            }
+          ],
+          "subject": {
+            "name": "Pyrolysis",
+            "type": "Process",
+            "pos": 116
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "neutral",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        },
+        {
+          "id": "C_W3172843969_9",
+          "abstract_id": "W3172843969",
+          "text": "If you burn pure hydrocarbons, such as polyethylene (PE) and polypropylene (PP), you will produce fuel that will fairly burn clean.",
+          "start": 1113,
+          "end": 1244,
+          "entities": [
+            {
+              "name": "Polypropylene (PP)",
+              "type": "Polymer",
+              "pos": 61
+            },
+            {
+              "name": "Polypropylene (PP)",
+              "type": "Polymer",
+              "pos": 76
+            }
+          ],
+          "subject": {
+            "name": "Polypropylene (PP)",
+            "type": "Polymer",
+            "pos": 61
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Polypropylene (PP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W3183316836",
+      "title": "The Critical Importance of Adopting Whole-of-Life Strategies for Polymers and Plastics",
+      "entities": [
+        {
+          "abstract_id": "W3183316836",
+          "text": "microplastic",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 349,
+          "end": 361
+        },
+        {
+          "abstract_id": "W3183316836",
+          "text": "nanoplastic",
+          "normalized": "nanoplastics",
+          "type": "Polymer",
+          "start": 366,
+          "end": 377
+        },
+        {
+          "abstract_id": "W3183316836",
+          "text": "circular economy",
+          "normalized": "circular economy",
+          "type": "Concept",
+          "start": 959,
+          "end": 975
+        },
+        {
+          "abstract_id": "W3183316836",
+          "text": "circular economy",
+          "normalized": "circular economy",
+          "type": "Concept",
+          "start": 1227,
+          "end": 1243
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W3183316836_2",
+          "abstract_id": "W3183316836",
+          "text": "However, plastics are often treated only as disposable commodities, which has led to the ever-increasing accumulation of plastic and plastic by-products in the environment as waste, and an unacceptable growth of microplastic and nanoplastic pollution.",
+          "start": 137,
+          "end": 388,
+          "entities": [
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 212
+            },
+            {
+              "name": "Nanoplastics",
+              "type": "Polymer",
+              "pos": 229
+            }
+          ],
+          "subject": {
+            "name": "Microplastics",
+            "type": "Polymer",
+            "pos": 212
+          },
+          "object": {
+            "name": "Nanoplastics",
+            "type": "Polymer",
+            "pos": 229
+          },
+          "predicate": "produces",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Microplastics, Nanoplastics"
+          }
+        },
+        {
+          "id": "C_W3183316836_5",
+          "abstract_id": "W3183316836",
+          "text": "The importance and topicality of this subject are evidenced by the dramatic increase in the use of terms such as “whole of life”, “life-cycle assessment”, “circular economy” and “sustainable polymers” in the scientific and broader literature.",
+          "start": 803,
+          "end": 1045,
+          "entities": [
+            {
+              "name": "Circular Economy",
+              "type": "Concept",
+              "pos": 156
+            }
+          ],
+          "subject": {
+            "name": "Circular Economy",
+            "type": "Concept",
+            "pos": 156
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        },
+        {
+          "id": "C_W3183316836_7",
+          "abstract_id": "W3183316836",
+          "text": "In this review, we assess the potential for implementing whole-of-life strategies for plastics to achieve our vision of a circular economy.",
+          "start": 1105,
+          "end": 1244,
+          "entities": [
+            {
+              "name": "Circular Economy",
+              "type": "Concept",
+              "pos": 122
+            }
+          ],
+          "subject": {
+            "name": "Circular Economy",
+            "type": "Concept",
+            "pos": 122
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U2",
+          "uncertainty_cue": "potential",
+          "scope": {}
+        }
+      ]
+    },
+    {
+      "id": "W3186024751",
+      "title": "Upcycling and catalytic degradation of plastic wastes",
+      "entities": [
+        {
+          "abstract_id": "W3186024751",
+          "text": "conversion",
+          "normalized": "conversion",
+          "type": "Outcome",
+          "start": 446,
+          "end": 456
+        },
+        {
+          "abstract_id": "W3186024751",
+          "text": "conversion",
+          "normalized": "conversion",
+          "type": "Outcome",
+          "start": 711,
+          "end": 721
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W3186024751_4",
+          "abstract_id": "W3186024751",
+          "text": "This review presents an overview on the conversion of plastic wastes toward value-added products and the catalytic degradation of nonrecoverable plastic wastes.",
+          "start": 406,
+          "end": 566,
+          "entities": [
+            {
+              "name": "Conversion",
+              "type": "Outcome",
+              "pos": 40
+            }
+          ],
+          "subject": {
+            "name": "Conversion",
+            "type": "Outcome",
+            "pos": 40
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        },
+        {
+          "id": "C_W3186024751_5",
+          "abstract_id": "W3186024751",
+          "text": "Based on an examination of traditional recycling technologies and products, we summarize the state-of-the-art design and development of plastic conversion to high-value and high-performance fuels, chemicals, and materials.",
+          "start": 567,
+          "end": 789,
+          "entities": [
+            {
+              "name": "Conversion",
+              "type": "Outcome",
+              "pos": 144
+            }
+          ],
+          "subject": {
+            "name": "Conversion",
+            "type": "Outcome",
+            "pos": 144
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        }
+      ]
+    },
+    {
+      "id": "W3207997313",
+      "title": "Plastic pollution: why is it a public health problem?",
+      "entities": [
+        {
+          "abstract_id": "W3207997313",
+          "text": "monomers",
+          "normalized": "bhet (monomer)",
+          "type": "Monomer",
+          "start": 55,
+          "end": 63
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W3207997313_1",
+          "abstract_id": "W3207997313",
+          "text": "Derived from petrochemicals,1 plastics are composed of monomers that are sequenced into polymer chains.",
+          "start": 0,
+          "end": 103,
+          "entities": [
+            {
+              "name": "BHET (Monomer)",
+              "type": "Monomer",
+              "pos": 55
+            }
+          ],
+          "subject": {
+            "name": "BHET (Monomer)",
+            "type": "Monomer",
+            "pos": 55
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "neutral",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        }
+      ]
+    },
+    {
+      "id": "W4221108226",
+      "title": "The distribution, behavior, and release of macro- and micro-size plastic wastes in solid waste disposal sites",
+      "entities": [
+        {
+          "abstract_id": "W4221108226",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 235,
+          "end": 248
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W4221108226_2",
+          "abstract_id": "W4221108226",
+          "text": "The distribution, long-term behavior, and release of macro- and microplastics (MPs) from disposal sites are critical to global plastics pollution, but are poorly understood and lack systematic assessments.",
+          "start": 171,
+          "end": 376,
+          "entities": [
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 64
+            }
+          ],
+          "subject": {
+            "name": "Microplastics",
+            "type": "Polymer",
+            "pos": 64
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "neutral",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Microplastics"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W4223480312",
+      "title": "Rational Design of Chemical Catalysis for Plastic Recycling",
+      "entities": [
+        {
+          "abstract_id": "W4223480312",
+          "text": "chemical recycling",
+          "normalized": "chemical recycling",
+          "type": "Process",
+          "start": 386,
+          "end": 404
+        },
+        {
+          "abstract_id": "W4223480312",
+          "text": "catalyst",
+          "normalized": "catalyst",
+          "type": "Catalyst",
+          "start": 477,
+          "end": 485
+        },
+        {
+          "abstract_id": "W4223480312",
+          "text": "PET",
+          "normalized": "pet",
+          "type": "Polymer",
+          "start": 594,
+          "end": 597
+        },
+        {
+          "abstract_id": "W4223480312",
+          "text": "polyolefins",
+          "normalized": "polyolefin",
+          "type": "Polymer",
+          "start": 602,
+          "end": 613
+        },
+        {
+          "abstract_id": "W4223480312",
+          "text": "catalyst",
+          "normalized": "catalyst",
+          "type": "Catalyst",
+          "start": 701,
+          "end": 709
+        },
+        {
+          "abstract_id": "W4223480312",
+          "text": "chemical recycling",
+          "normalized": "chemical recycling",
+          "type": "Process",
+          "start": 958,
+          "end": 976
+        }
+      ],
+      "claims": []
+    },
+    {
+      "id": "W4292702250",
+      "title": "Black microplastic in plastic pollution: undetected and underestimated?",
+      "entities": [
+        {
+          "abstract_id": "W4292702250",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 27,
+          "end": 40
+        },
+        {
+          "abstract_id": "W4292702250",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 72,
+          "end": 85
+        },
+        {
+          "abstract_id": "W4292702250",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 122,
+          "end": 135
+        },
+        {
+          "abstract_id": "W4292702250",
+          "text": "Microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 192,
+          "end": 205
+        },
+        {
+          "abstract_id": "W4292702250",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 439,
+          "end": 452
+        },
+        {
+          "abstract_id": "W4292702250",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 592,
+          "end": 605
+        },
+        {
+          "abstract_id": "W4292702250",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 688,
+          "end": 701
+        },
+        {
+          "abstract_id": "W4292702250",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 817,
+          "end": 830
+        },
+        {
+          "abstract_id": "W4292702250",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 876,
+          "end": 889
+        },
+        {
+          "abstract_id": "W4292702250",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 976,
+          "end": 989
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W4292702250_2",
+          "abstract_id": "W4292702250",
+          "text": "The environmental ubiquity of microplastics (< 5 mm) is evident and the leak of microplastics into the environment is projected to increase globally.",
+          "start": 42,
+          "end": 191,
+          "entities": [
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 30
+            },
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 80
+            }
+          ],
+          "subject": {
+            "name": "Microplastics",
+            "type": "Polymer",
+            "pos": 30
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Microplastics"
+          }
+        },
+        {
+          "id": "C_W4292702250_5",
+          "abstract_id": "W4292702250",
+          "text": "In the present perspective article, based on 50 field-based research articles on microplastics published from 2014 to 2022 and our own research experience, we raised specific environmental concerns about black microplastics and emphasized the challenges posed by black microplastics in multiple aspects.",
+          "start": 607,
+          "end": 910,
+          "entities": [
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 81
+            },
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 210
+            },
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 269
+            }
+          ],
+          "subject": {
+            "name": "Microplastics",
+            "type": "Polymer",
+            "pos": 81
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "neutral",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Microplastics"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W4306376905",
+      "title": "Plastic Waste Degradation in Landfill Conditions: The Problem with Microplastics, and Their Direct and Indirect Environmental Effects",
+      "entities": [
+        {
+          "abstract_id": "W4306376905",
+          "text": "landfilling",
+          "normalized": "landfilling",
+          "type": "Process",
+          "start": 3,
+          "end": 14
+        },
+        {
+          "abstract_id": "W4306376905",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 240,
+          "end": 253
+        },
+        {
+          "abstract_id": "W4306376905",
+          "text": "photodegradation",
+          "normalized": "photodegradation",
+          "type": "Process",
+          "start": 865,
+          "end": 881
+        },
+        {
+          "abstract_id": "W4306376905",
+          "text": "monomers",
+          "normalized": "bhet (monomer)",
+          "type": "Monomer",
+          "start": 1175,
+          "end": 1183
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W4306376905_5",
+          "abstract_id": "W4306376905",
+          "text": "In this study, a special focus was given to the potential for the migration and release of toxic substances as the aging of plastic debris leads to the release of harmful volatile organic compounds via oxidative photodegradation.",
+          "start": 653,
+          "end": 882,
+          "entities": [
+            {
+              "name": "Photodegradation",
+              "type": "Process",
+              "pos": 212
+            }
+          ],
+          "subject": {
+            "name": "Photodegradation",
+            "type": "Process",
+            "pos": 212
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "neutral",
+          "uncertainty": "U2",
+          "uncertainty_cue": "potential",
+          "scope": {}
+        }
+      ]
+    },
+    {
+      "id": "W4309184431",
+      "title": "Effect of Polymer Properties on the Biodegradation of Polyurethane Microplastics",
+      "entities": [
+        {
+          "abstract_id": "W4309184431",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 118,
+          "end": 131
+        },
+        {
+          "abstract_id": "W4309184431",
+          "text": "biodegradation",
+          "normalized": "biodegradation",
+          "type": "Process",
+          "start": 410,
+          "end": 424
+        },
+        {
+          "abstract_id": "W4309184431",
+          "text": "biodegradation",
+          "normalized": "biodegradation",
+          "type": "Process",
+          "start": 474,
+          "end": 488
+        },
+        {
+          "abstract_id": "W4309184431",
+          "text": "biodegradation",
+          "normalized": "biodegradation",
+          "type": "Process",
+          "start": 574,
+          "end": 588
+        },
+        {
+          "abstract_id": "W4309184431",
+          "text": "biodegradation",
+          "normalized": "biodegradation",
+          "type": "Process",
+          "start": 994,
+          "end": 1008
+        },
+        {
+          "abstract_id": "W4309184431",
+          "text": "conversion",
+          "normalized": "conversion",
+          "type": "Outcome",
+          "start": 1207,
+          "end": 1217
+        },
+        {
+          "abstract_id": "W4309184431",
+          "text": "biodegradation",
+          "normalized": "biodegradation",
+          "type": "Process",
+          "start": 1259,
+          "end": 1273
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W4309184431_1",
+          "abstract_id": "W4309184431",
+          "text": "High Resolution Image Download MS PowerPoint Slide The release of fragments from plastic products, that is, secondary microplastics, is a major concern in the context of the global plastic pollution.",
+          "start": 0,
+          "end": 199,
+          "entities": [
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 118
+            }
+          ],
+          "subject": {
+            "name": "Microplastics",
+            "type": "Polymer",
+            "pos": 118
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Microplastics"
+          }
+        },
+        {
+          "id": "C_W4309184431_3",
+          "abstract_id": "W4309184431",
+          "text": "However, the ester bond in (T)PUs might be sufficiently hydrolysable to enable at least partial biodegradation of polyurethane particles.",
+          "start": 314,
+          "end": 451,
+          "entities": [
+            {
+              "name": "Biodegradation",
+              "type": "Process",
+              "pos": 96
+            }
+          ],
+          "subject": {
+            "name": "Biodegradation",
+            "type": "Process",
+            "pos": 96
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "neutral",
+          "uncertainty": "U2",
+          "uncertainty_cue": "might",
+          "scope": {}
+        },
+        {
+          "id": "C_W4309184431_7",
+          "abstract_id": "W4309184431",
+          "text": "Our results showed that biodegradation rates and extents decreased with increasing cross-linking density and hard-segment content.",
+          "start": 970,
+          "end": 1100,
+          "entities": [
+            {
+              "name": "Biodegradation",
+              "type": "Process",
+              "pos": 24
+            }
+          ],
+          "subject": {
+            "name": "Biodegradation",
+            "type": "Process",
+            "pos": 24
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "neutral",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        },
+        {
+          "id": "C_W4309184431_8",
+          "abstract_id": "W4309184431",
+          "text": "We found that the presence of a hydrolysis stabilizer reduced (T)PU fragmentation while not affecting the conversion of (T)PU carbon into CO 2 .",
+          "start": 1101,
+          "end": 1245,
+          "entities": [
+            {
+              "name": "Conversion",
+              "type": "Outcome",
+              "pos": 106
+            }
+          ],
+          "subject": {
+            "name": "Conversion",
+            "type": "Outcome",
+            "pos": 106
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "negative",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        }
+      ]
+    },
+    {
+      "id": "W4322492509",
+      "title": "Photoredox-Catalyzed Plastic Waste Conversion: Nonselective Degradation versus Selective Synthesis",
+      "entities": [
+        {
+          "abstract_id": "W4322492509",
+          "text": "conversion",
+          "normalized": "conversion",
+          "type": "Outcome",
+          "start": 605,
+          "end": 615
+        },
+        {
+          "abstract_id": "W4322492509",
+          "text": "conversion",
+          "normalized": "conversion",
+          "type": "Outcome",
+          "start": 847,
+          "end": 857
+        },
+        {
+          "abstract_id": "W4322492509",
+          "text": "conversion",
+          "normalized": "conversion",
+          "type": "Outcome",
+          "start": 991,
+          "end": 1001
+        }
+      ],
+      "claims": []
+    },
+    {
+      "id": "W4379615028",
+      "title": "Plastic Recycling: A Review on Life Cycle, Methods, Misconceptions, and Techno‐Economic Analysis",
+      "entities": [],
+      "claims": []
+    },
+    {
+      "id": "W4385383521",
+      "title": "Bioremediation of plastics by the help of microbial tool: A way for control of plastic pollution",
+      "entities": [
+        {
+          "abstract_id": "W4385383521",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 1408,
+          "end": 1421
+        }
+      ],
+      "claims": []
+    },
+    {
+      "id": "W4400116636",
+      "title": "Biocatalytic approaches for plastic recycling",
+      "entities": [
+        {
+          "abstract_id": "W4400116636",
+          "text": "enzymatic degradation",
+          "normalized": "biodegradation",
+          "type": "Process",
+          "start": 314,
+          "end": 335
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W4400116636_2",
+          "abstract_id": "W4400116636",
+          "text": "While there are many obstacles in accessability of plastics for enzymatic degradation, recent achievements in industrial application and discoveries of new enzyme classes for polymer degradation highly encourage further investment in this technology paving the way towards broad industrial application of biocatalysis in plastic recycling.",
+          "start": 250,
+          "end": 589,
+          "entities": [
+            {
+              "name": "Biodegradation",
+              "type": "Process",
+              "pos": 64
+            }
+          ],
+          "subject": {
+            "name": "Biodegradation",
+            "type": "Process",
+            "pos": 64
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {}
+        }
+      ]
+    },
+    {
+      "id": "W4404110366",
+      "title": "Urgent Need of Plastic Waste Management: A Review",
+      "entities": [
+        {
+          "abstract_id": "W4404110366",
+          "text": "oil",
+          "normalized": "pyrolysis oil",
+          "type": "Product",
+          "start": 724,
+          "end": 727
+        }
+      ],
+      "claims": []
+    },
+    {
+      "id": "W4404571877",
+      "title": "Recycle or Not? An Exploration of Microplastic Generation During Plastic Processing via a Local Case Study",
+      "entities": [
+        {
+          "abstract_id": "W4404571877",
+          "text": "Microplastic",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "claims": []
+    },
+    {
+      "id": "W4409322622",
+      "title": "A comprehensive review on exposure to toxins and health risks from plastic waste: Challenges, mitigation measures, and policy interventions",
+      "entities": [
+        {
+          "abstract_id": "W4409322622",
+          "text": "incineration",
+          "normalized": "incineration",
+          "type": "Process",
+          "start": 1336,
+          "end": 1348
+        },
+        {
+          "abstract_id": "W4409322622",
+          "text": "chemical recycling",
+          "normalized": "chemical recycling",
+          "type": "Process",
+          "start": 1431,
+          "end": 1449
+        },
+        {
+          "abstract_id": "W4409322622",
+          "text": "polyethylene terephthalate",
+          "normalized": "pet",
+          "type": "Polymer",
+          "start": 1486,
+          "end": 1512
+        },
+        {
+          "abstract_id": "W4409322622",
+          "text": "PET",
+          "normalized": "pet",
+          "type": "Polymer",
+          "start": 1514,
+          "end": 1517
+        },
+        {
+          "abstract_id": "W4409322622",
+          "text": "enzymatic degradation",
+          "normalized": "biodegradation",
+          "type": "Process",
+          "start": 1524,
+          "end": 1545
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W4409322622_8",
+          "abstract_id": "W4409322622",
+          "text": "Despite recycling efforts, only 9 % of plastic waste is recycled globally, while open burning and inadequate incineration release hazardous pollutants like dioxins and furans.",
+          "start": 1227,
+          "end": 1402,
+          "entities": [
+            {
+              "name": "Incineration",
+              "type": "Process",
+              "pos": 109
+            }
+          ],
+          "subject": {
+            "name": "Incineration",
+            "type": "Process",
+            "pos": 109
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "neutral",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "reaction_time": "10 h",
+            "inherited_from_abstract": [
+              "reaction_time"
+            ]
+          }
+        },
+        {
+          "id": "C_W4409322622_9",
+          "abstract_id": "W4409322622",
+          "text": "Advanced solutions, such as chemical recycling, with recovery rates up to 97 % for polyethylene terephthalate (PET), and enzymatic degradation, achieving 90 % plastic breakdown in 10 h, show promise but face scalability challenges.",
+          "start": 1403,
+          "end": 1634,
+          "entities": [
+            {
+              "name": "Chemical Recycling",
+              "type": "Process",
+              "pos": 28
+            },
+            {
+              "name": "PET",
+              "type": "Polymer",
+              "pos": 83
+            },
+            {
+              "name": "PET",
+              "type": "Polymer",
+              "pos": 111
+            },
+            {
+              "name": "Biodegradation",
+              "type": "Process",
+              "pos": 121
+            }
+          ],
+          "subject": {
+            "name": "Chemical Recycling",
+            "type": "Process",
+            "pos": 28
+          },
+          "object": {
+            "name": "PET",
+            "type": "Polymer",
+            "pos": 83
+          },
+          "predicate": "affects",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "reaction_time": "10 h",
+            "polymer": "PET"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W4409816454",
+      "title": "Plastic waste: impact on the planet’s ecosystem",
+      "entities": [
+        {
+          "abstract_id": "W4409816454",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 467,
+          "end": 480
+        },
+        {
+          "abstract_id": "W4409816454",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 1218,
+          "end": 1231
+        },
+        {
+          "abstract_id": "W4409816454",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 1544,
+          "end": 1557
+        },
+        {
+          "abstract_id": "W4409816454",
+          "text": "microplastics",
+          "normalized": "microplastics",
+          "type": "Polymer",
+          "start": 1762,
+          "end": 1775
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W4409816454_5",
+          "abstract_id": "W4409816454",
+          "text": "In the past few years, small plastic fragments, especially microplastics, have become increasingly concerned due to their pollution and environmental risks.",
+          "start": 408,
+          "end": 564,
+          "entities": [
+            {
+              "name": "Microplastics",
+              "type": "Polymer",
+              "pos": 59
+            }
+          ],
+          "subject": {
+            "name": "Microplastics",
+            "type": "Polymer",
+            "pos": 59
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "polymer": "Microplastics"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W4412038039",
+      "title": "Plastic Pollution: A Menace to the Society",
+      "entities": [],
+      "claims": []
+    },
+    {
+      "id": "W7118824609",
+      "title": "Nickel-based catalysts for plastic pyrolysis: advances in product selectivity, yield optimization, and emerging pathways for thermochemical recycling",
+      "entities": [
+        {
+          "abstract_id": "W7118824609",
+          "text": "catalysts",
+          "normalized": "catalyst",
+          "type": "Catalyst",
+          "start": 32,
+          "end": 41
+        },
+        {
+          "abstract_id": "W7118824609",
+          "text": "pyrolysis",
+          "normalized": "pyrolysis",
+          "type": "Process",
+          "start": 54,
+          "end": 63
+        },
+        {
+          "abstract_id": "W7118824609",
+          "text": "catalyst",
+          "normalized": "catalyst",
+          "type": "Catalyst",
+          "start": 98,
+          "end": 106
+        },
+        {
+          "abstract_id": "W7118824609",
+          "text": "yield",
+          "normalized": "yield",
+          "type": "Outcome",
+          "start": 174,
+          "end": 179
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W7118824609_1",
+          "abstract_id": "W7118824609",
+          "text": "Recent advances in nickel-based catalysts for plastic pyrolysis, emphasizing reaction mechanisms, catalyst design, and emerging innovations that enhance product selectivity, yield efficiency, and sustainable polymer recycling.",
+          "start": 0,
+          "end": 226,
+          "entities": [
+            {
+              "name": "Catalyst",
+              "type": "Catalyst",
+              "pos": 32
+            },
+            {
+              "name": "Pyrolysis",
+              "type": "Process",
+              "pos": 54
+            },
+            {
+              "name": "Catalyst",
+              "type": "Catalyst",
+              "pos": 98
+            },
+            {
+              "name": "Yield",
+              "type": "Outcome",
+              "pos": 174
+            }
+          ],
+          "subject": {
+            "name": "Pyrolysis",
+            "type": "Process",
+            "pos": 54
+          },
+          "object": {
+            "name": "Yield",
+            "type": "Outcome",
+            "pos": 174
+          },
+          "predicate": "produces",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "catalyst": "Catalyst"
+          }
+        }
+      ]
+    },
+    {
+      "id": "W7217698648",
+      "title": "Role of Nanotechnology in Reducing Plastic Pollution",
+      "entities": [
+        {
+          "abstract_id": "W7217698648",
+          "text": "catalysts",
+          "normalized": "catalyst",
+          "type": "Catalyst",
+          "start": 824,
+          "end": 833
+        },
+        {
+          "abstract_id": "W7217698648",
+          "text": "catalysts",
+          "normalized": "catalyst",
+          "type": "Catalyst",
+          "start": 853,
+          "end": 862
+        },
+        {
+          "abstract_id": "W7217698648",
+          "text": "catalysts",
+          "normalized": "catalyst",
+          "type": "Catalyst",
+          "start": 1120,
+          "end": 1129
+        }
+      ],
+      "claims": [
+        {
+          "id": "C_W7217698648_5",
+          "abstract_id": "W7217698648",
+          "text": "The work looks at how nanotechnology can degrade plastics more quickly by using nano catalysts.",
+          "start": 739,
+          "end": 834,
+          "entities": [
+            {
+              "name": "Catalyst",
+              "type": "Catalyst",
+              "pos": 85
+            }
+          ],
+          "subject": {
+            "name": "Catalyst",
+            "type": "Catalyst",
+            "pos": 85
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "neutral",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "catalyst": "none"
+          }
+        },
+        {
+          "id": "C_W7217698648_6",
+          "abstract_id": "W7217698648",
+          "text": "Examples are nano-catalysts of titanium dioxide and zinc oxide, which have the capability to degrade plastic polymers into less harmful by-products under varying environmental conditions.",
+          "start": 835,
+          "end": 1022,
+          "entities": [
+            {
+              "name": "Catalyst",
+              "type": "Catalyst",
+              "pos": 18
+            }
+          ],
+          "subject": {
+            "name": "Catalyst",
+            "type": "Catalyst",
+            "pos": 18
+          },
+          "object": null,
+          "predicate": "related to",
+          "polarity": "positive",
+          "uncertainty": "U1",
+          "uncertainty_cue": "",
+          "scope": {
+            "catalyst": "Catalyst"
+          }
+        }
+      ]
+    }
+  ]
+}

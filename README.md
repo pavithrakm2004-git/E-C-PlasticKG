@@ -1,4 +1,4 @@
-# EC_Plastic_KG
+# E-C PlasticKG: An Evidence-Centric and Scope-Aware Knowledge Graph Framework for Plastic Waste Management
 
 Dynamic, keyword-driven, evidence-centric and scope-aware Knowledge Graph generation for
 plastic waste management research abstracts.

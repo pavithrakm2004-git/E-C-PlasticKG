@@ -44,7 +44,8 @@ function render(g) {
   const graphEdges = g.edges.filter(e => entityIds.has(e.from) && entityIds.has(e.to));
   nodesDS = new vis.DataSet(graphNodes.map(nodeStyle));
   edgesDS = new vis.DataSet(graphEdges.map((e,i) => ({id:i, from:e.from, to:e.to, label:e.label, _e:e,
-    arrows:"to", font:{size:10, align:"middle", strokeWidth:3, strokeColor:getComputedStyle(document.body).backgroundColor},
+    arrows:"to", font:{color:getComputedStyle(document.body).color, size:12, align:"middle", strokeWidth:3,
+      strokeColor:getComputedStyle(document.body).backgroundColor},
     color:{color:EDGE_COLORS[e.label] || "#7a9296"}, width:EDGE_COLORS[e.label] ? 3 : 1,
     dashes: e.label === "From Finding"})));
   network = new vis.Network($("#graph"), {nodes:nodesDS, edges:edgesDS}, {
