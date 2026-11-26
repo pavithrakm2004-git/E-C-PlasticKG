@@ -71,3 +71,15 @@ EC_PlasticKG/
   tests/       test_pipeline.py
   docs/        architecture.md
 ```
+
+## Research Contributions and Design Principles
+
+E-C PlasticKG is designed around the following principles:
+
+- **Topic-specific graph generation:** Generates a separate knowledge graph for each search keyword, helping users explore focused research topics.
+- **Evidence traceability:** Links extracted claims to their supporting text passages and character offsets.
+- **Scope awareness:** Stores experimental conditions such as polymer type, temperature, reaction time, catalyst, and medium with individual claims.
+- **Uncertainty representation:** Assigns uncertainty levels (U1, U2, U3) to distinguish direct findings from tentative or inconclusive statements.
+- **Explicit claim relationships:** Represents relationships between claims using Supports, Challenges, Refines, and Inconclusive relations.
+
+These design principles aim to make knowledge graph exploration more transparent, interpretable, and context-aware.
